@@ -1,5 +1,5 @@
 ## Hello, welcome to my GitHub profile! 👋
-
+![me](imgs/me.jpg | width=250)
 <!--
 **ashleymichaelwilliams/ashleymichaelwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
